@@ -135,7 +135,9 @@
   text-align: center;
   color: #737272;
 }
-
+.green {
+  color: green;
+}
 /* my plan section end  */
 /* mindset-section start  */
 .mindset {
@@ -182,6 +184,88 @@
 
 /* mindset-section end  */
 /* main section end  */
+/* future start  */
+.future-section {
+  background-color: #ffffff;
+}
+
+.future-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  text-align: center;
+  color: #121212;
+  margin-top: 130px;
+  margin-bottom: 20px;
+}
+
+.future-description {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #707070;
+  margin-bottom: 15px;
+}
+
+.future-box {
+  background: #fafafa;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.topic-box {
+  background: #fafafa;
+  border-radius: 5px;
+  height: 123px;
+  width: 135px;
+  text-align: center;
+  border: 2px solid gray;
+}
+
+.topic-background {
+  background: #ffeeee;
+  border: 2px solid #ff5959;
+  border-radius: 5px;
+}
+
+input {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  width: 100%;
+  margin-top: 15px;
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+.line {
+  border: 2.5px solid #ff5959;
+  border-radius: 20px;
+}
+
+.click {
+  width: 160px;
+  height: 64px;
+  background: #f15b22;
+  border-radius: 5px;
+  border: none;
+  color: #ffffff;
+  font-weight: 500;
+  text-align: center;
+  margin-left: 600px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+/* future ends  */
 /* footer start  */
 .my-footer {
   display: flex;
@@ -193,6 +277,7 @@
   height: 800px;
   background: #151414;
 }
+
 .footer-title {
   width: 148px;
   height: 53px;
@@ -202,6 +287,7 @@
   font-size: 45px;
   color: #f8f8f8;
 }
+
 .footer-description {
   width: 485px;
   height: 78px;
@@ -209,6 +295,7 @@
   font-size: 16px;
   color: #ffffff;
 }
+
 .footer-mail {
   width: 184px;
   height: 26px;
@@ -217,11 +304,13 @@
   font-size: 16px;
   color: #ffffff;
 }
+
 .icon-styles {
   width: 175px;
   height: 46px;
   padding-top: 20px;
 }
+
 .sub-btn {
   width: 123px;
   height: 29px;
@@ -230,6 +319,7 @@
   font-size: 25px;
   color: #ffffff;
 }
+
 .mail-center {
   width: 325px;
   height: 64px;
@@ -237,6 +327,7 @@
   border: 10px rgb(70, 62, 61);
   border-radius: 10px round;
 }
+
 .subs-btn {
   width: 170.11px;
   height: 64px;
