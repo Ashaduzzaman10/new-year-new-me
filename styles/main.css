@@ -131,3 +131,44 @@
   color: #737272;
 }
 /* my plan section end  */
+/* mindset-section start  */
+.mindset {
+  width: 1140px;
+  height: 300px;
+  background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
+  border-radius: 8px;
+  margin: 60px;
+  box-sizing: border-box;
+  background-image: url("../images/watch.png");
+}
+.minset-container {
+  width: 1140px;
+  height: 300px;
+  justify-content: center;
+  padding: 30px;
+}
+.mind-title {
+  font-family: "Work Sans";
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
+  width: 459px;
+  height: 94px;
+  padding-left: 65px;
+  padding-top: 60px;
+}
+.call-btn {
+  width: 160px;
+  height: 64px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+  color: #f15b22;
+  border: none;
+  border-radius: 3.5px;
+  margin-top: 75px;
+  margin-left: 60px;
+}
+/* mindset-section end  */
+/* main section end  */
