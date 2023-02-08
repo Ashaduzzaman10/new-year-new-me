@@ -55,7 +55,6 @@
 
 .failure-title {
   font-family: "Work Sans";
-
   font-weight: 700;
   font-size: 45px;
   color: #151414;
@@ -93,3 +92,42 @@
   padding-right: 30px;
 }
 /* failure section end */
+/* my-plan section start  */
+.my-plan-title {
+  font-family: "Work Sans";
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  text-align: center;
+  padding-bottom: 25px;
+}
+.my-plan-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+.plan-title {
+  font-family: "Work Sans";
+  font-weight: 700;
+  font-size: 17px;
+  text-align: center;
+  color: #151414;
+  padding-top: 15px;
+}
+.my-plan-section {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 17px;
+  text-align: center;
+  color: #737272;
+}
+.my-plan-description {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  color: #737272;
+}
+/* my plan section end  */
